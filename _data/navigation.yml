@@ -1,0 +1,10 @@
+- name: About
+  link: /about
+- name: Treatments
+  link: /treatments
+- name: Consultations
+  link: /consultations
+- name: Prices
+  link: /prices
+- name: Book now
+  link: /book
