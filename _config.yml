@@ -18,14 +18,10 @@ author: Dr Pooja Jassal-Prior
 title_image: "/assets/images/logo.png"
 
 # Social usernames/URLs
-twitter: jpaesthetics
-github: jpaesthetics
-linkedin: jpaesthetics
-instagram: jpaesthetics
-facebook: jpaesthetics
+github: pooja-jassal-prior
+instagram: poojaj
+facebook: 
 
-disqus: "jpaesthetics"
-google_analytics: 
 
 # Build settings
 markdown: kramdown
