@@ -12,7 +12,7 @@ permalink: anti-wrinkle
 - Crows area (Lateral canthal lines) 
 
 
-  <a href="/book"><button class="btn">Book Now</button></a>
+  <a href="/book"><button class="btn1">Book Now</button></a>
 
 
 ### What are anti-wrinkle injections?
@@ -30,4 +30,4 @@ Anti-wrinkle treatment can last for 3-6 months; however, this does vary between 
 ### Are there any side effects?
 Anti-wrinkle injections  are a safe treatment. There may be some swelling and possibly some bruising following the procedure. This is normal and will usually settle with a day or two. 
 
-  <a href="/book"><button class="btn">Book Now</button></a>
+  <a href="/book"><button class="btn1">Book Now</button></a>

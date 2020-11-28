@@ -6,7 +6,7 @@ permalink: lip-augumentation
 
 Lip fillers are used to restore fullness and create beautifully shaped lips. They are ideal for anyone wanting to add volume to create a plumper, poutier lip.
 
-  <a href="/book"><button class="btn">Book Now</button></a>
+  <a href="/book"><button class="btn1">Book Now</button></a>
 
 ### Which fillers do you use?
 We only use premium fillers, they are safe and effective. We will discuss at consultation the best filler choice for you. 
@@ -26,4 +26,4 @@ Most dermal fillers last between six to 18 months. This can be affected by how y
 ### Are there any side effects?
 Temporary side effects following treatment include swelling, tenderness and redness. 
 
-  <a href="/book"><button class="btn">Book Now</button></a>
+  <a href="/book"><button class="btn1">Book Now</button></a>

@@ -9,7 +9,7 @@ A Dermal fillers are typically made up of hyaluronic acids, small injections are
 
 Fillers can be used around the eyes, checks mouth and jawline as well as lip fillers which are injected directly in the lip tissue. 
 
-  <a href="/book"><button class="btn">Book Now</button></a>
+  <a href="/book"><button class="btn1">Book Now</button></a>
 
 
 ### Areas treated
@@ -39,4 +39,4 @@ Most dermal fillers last between six to 18 months. This can be affected by how y
 ### Are there any side effects?
 Temporary side effects following treatment include swelling, tenderness and redness, this should begin to  settle after 24-48 hours. 
 
-  <a href="/book"><button class="btn">Book Now</button></a>
+  <a href="/book"><button class="btn1">Book Now</button></a>
