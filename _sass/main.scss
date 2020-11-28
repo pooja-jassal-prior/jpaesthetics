@@ -264,28 +264,6 @@ pre {
 }
 
 
-.btn {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-  text-align: center;
-  color: white;
-  background-color: black;
-  font-size: 24px;
-  font-weight: bold;
-  padding: 12px 12px;
-  border: none;
-  border-radius: 5px;
-
-}
-
-.btn:hover {
-
-  background-color: #4D4D4D;
-
-}
-
 /* Container needed to position the button. Adjust the width as needed */
 .container {
   position: relative;
@@ -311,7 +289,7 @@ pre {
   -ms-transform: translate(-50%, -50%);
   background-color: none;
   color: white;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: bold;
   padding: 12px 24px;
   border: none;
@@ -322,6 +300,29 @@ pre {
 
 .container .btn:hover {
   background-color: black;
+}
+
+
+.btn1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
+  color: white;
+  background-color: black;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 12px 12px;
+  border: none;
+  border-radius: 5px;
+
+}
+
+.btn1:hover {
+
+  background-color: #4D4D4D;
+
 }
 
 // Signature
